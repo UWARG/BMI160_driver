@@ -36,6 +36,13 @@
 *
 */
 
+
+/**
+ * TO-DO:
+ * 1. ADD the submodule directory to STM compile directory
+ * 2. change all the low level function into HAL function
+ * 3. Include BMX160.h
+ */
 #include "bmi160.h"
 
 /* Below look up table follows the enum bmi160_int_types.
